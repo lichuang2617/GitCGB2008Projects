@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 29 16:45:34 CST 2020
+https\://maven.aliyun.com/repository/public/.error=Could not transfer artifact org.springframework\:spring-web\:jar\:5.2.9.RELEASE from/to nexus-aliyun (https\://maven.aliyun.com/repository/public)\: GET request of\: org/springframework/spring-web/5.2.9.RELEASE/spring-web-5.2.9.RELEASE.jar from nexus-aliyun failed
+@default-nexus-aliyun-https\://maven.aliyun.com/repository/public/.lastUpdated=1603961134314
